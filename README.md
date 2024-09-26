@@ -9,3 +9,5 @@
 - [Pr·tica6](https://github.com/kar64623/amerike3)
 
 - [Pr·ctica7](https://github.com/kar64623/amerike3)
+
+- [Pr√°ctica8](/practica-8.md)
